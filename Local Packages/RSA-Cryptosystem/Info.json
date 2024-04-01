@@ -1,0 +1,9 @@
+{
+    "Author": "554884571",
+    "Desc"  : "RIVEST-SHAMIR-ADLEMAN (RSA)<br />Implementation of secure assymetric-key encryption specifically in Luau<br />Includes key generator, encryption, decryption (with Chinese Remainder Theorem optimization),<br />and signature verification without padding.<br /><br />Made by @RobloxGamerPro200007 (verify the original asset)<br />MORE INFORMATION: https://devforum.roblox.com/t/2023603",
+
+    "Latest" : "v1.0.0",
+    "Version": {
+        "v1.0.0": ""
+    }
+}
