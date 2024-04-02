@@ -1,7 +1,9 @@
 --[===[WebPKG
 {
-	"Name"   : "RSA-Cryptosystem"
-	"Version": "v1.0.0"
+	"Package": {
+		"Name"   : "RSA-Cryptosystem",
+		"Version": "v1.0.0"
+	},
 
 	"Dependencies": []
 }
